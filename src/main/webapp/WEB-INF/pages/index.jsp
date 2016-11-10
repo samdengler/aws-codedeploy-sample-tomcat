@@ -97,7 +97,7 @@
           </div>
           <div class="panel-body">
             Meeting your special someone? Make sure your dog looks the part!
-            <img src="images/casual-dog2.png" style="width:236px;height:295px;">
+            <img src="images/classy-dog1.png" style="width:236px;height:295px;">
           </div>
         </div>
       </div>
